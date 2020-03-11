@@ -1,0 +1,63 @@
+{
+    "owner": [
+        "bp.op",
+        "sw.kit",
+        "tb.kit.all"
+    ],
+    "admin": [
+        "bp.staff",
+        "pocketmine.command.kick",
+        "pocketmine.command.teleport",
+        "pocketmine.command.ban",
+        "pocketmine.command.gamemode",
+        "sw.kit",
+        "tb.kit.all"
+    ],
+    "mod": [
+        "bp.staff",
+        "pocketmine.command.kick",
+        "pocketmine.command.teleport",
+        "pocketmine.command.ban",
+        "sw.kit",
+        "tb.kit.all"
+    ],
+    "helper": [
+        "bp.mng",
+        "pocketmine.command.kick",
+        "pocketmine.command.teleport"
+    ],
+    "trainee": [
+        "bp.mng",
+        "pocketmine.command.kick",
+        "pocketmine.command.teleport"
+    ],
+    "builder": [
+        "bp.mng",
+        "pocketmine.command.kick",
+        "pocketmine.command.teleport",
+        "pocketmine.command.gamemode",
+        "mw.cmd",
+        "bt.cmd",
+        "sw.kit",
+        "tb.kit.all"
+    ],
+    "developer": [
+        "bp.op",
+        "sw.kit",
+        "tb.kit.all"
+    ],
+    "youtube": [
+        "bp.yt",
+        "sw.kit",
+        "tb.kit.all"
+    ],
+    "bedrock": [
+        "bp.bedrock",
+        "sw.kit",
+        "tb.kit.all"
+    ],
+    "voter": [
+        "bp.voter"
+    ],
+    "guest": []
+}
